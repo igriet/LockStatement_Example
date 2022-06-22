@@ -6,3 +6,11 @@ C:\Users\eliseog\Documents\16R137\LockStatemenet\bin\Debug\LockStatemenet.pdb
 C:\Users\eliseog\Documents\16R137\LockStatemenet\obj\Debug\LockStatemenet.exe
 C:\Users\eliseog\Documents\16R137\LockStatemenet\obj\Debug\LockStatemenet.pdb
 C:\Users\eliseog\Documents\16R137\LockStatemenet\obj\Debug\LockStatemenet.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliseog\Documents\16R137\LockStatement_Example\bin\Debug\LockStatemenet.exe.config
+C:\Users\eliseog\Documents\16R137\LockStatement_Example\bin\Debug\LockStatemenet.exe
+C:\Users\eliseog\Documents\16R137\LockStatement_Example\bin\Debug\LockStatemenet.pdb
+C:\Users\eliseog\Documents\16R137\LockStatement_Example\obj\Debug\LockStatemenet.csproj.AssemblyReference.cache
+C:\Users\eliseog\Documents\16R137\LockStatement_Example\obj\Debug\LockStatemenet.csproj.SuggestedBindingRedirects.cache
+C:\Users\eliseog\Documents\16R137\LockStatement_Example\obj\Debug\LockStatemenet.csproj.CoreCompileInputs.cache
+C:\Users\eliseog\Documents\16R137\LockStatement_Example\obj\Debug\LockStatemenet.exe
+C:\Users\eliseog\Documents\16R137\LockStatement_Example\obj\Debug\LockStatemenet.pdb

@@ -16,7 +16,7 @@ namespace LockStatemenet
             {
                 for (int i = 0; i < 100; i++)
                 {
-                    Console.WriteLine("Iteracion # " + i + Thread.CurrentThread.ThreadState + " " + Thread.CurrentThread.ManagedThreadId);
+                    Console.WriteLine($"Iteracion #{i} {Thread.CurrentThread.ThreadState} - Thread:{Thread.CurrentThread.ManagedThreadId}");
                 }
             }
         }
